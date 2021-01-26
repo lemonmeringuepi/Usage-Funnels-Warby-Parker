@@ -35,7 +35,7 @@ SQL queries are used to answer the following questions:
 
 The SQL queries, as well as screenshots of the resulting tables, can be found as attachments to this repository. The presentation of data, through Prezi, can be found [here](https://prezi.com/i/mvfks6qpphog/).
 
-`<script async src="https://e.prezicdn.net/v1/design.js"></script><div class="prezi-design-embed" data-project-id="mvfks6qpphog"></div>`
+<script async src="https://e.prezicdn.net/v1/design.js"></script><div class="prezi-design-embed" data-project-id="mvfks6qpphog"></div>
 
 ## Sources
 
