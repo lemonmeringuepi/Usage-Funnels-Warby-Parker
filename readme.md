@@ -35,7 +35,7 @@ SQL queries are used to answer the following questions:
 
 The SQL queries, as well as screenshots of the resulting tables, can be found as attachments to this repository. [Click here to be redirected to the full, interactive presentation of data on Prezi.](https://prezi.com/i/mvfks6qpphog/) Below is a sample image without interactivity:
 
-!(https://github.com/lemonmeringuepi/Usage-Funnels-Warby-Parker/blob/main/sample-prezi.png?raw=true)
+!(https://github.com/lemonmeringuepi/Usage-Funnels-Warby-Parker/blob/main/sample-prezi.png)
 
 ## Sources
 
